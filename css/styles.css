@@ -1,0 +1,80 @@
+body{
+      font-family:"Roboto" sans-serif;
+
+}
+
+.logo-web{
+            font-weight: 800;
+            font-size: 18px;
+            line-height: 1.16; 
+            letter-spacing: 0.03em;
+            color: #4D5AE5;
+      }
+
+.logo-studio{
+            font-weight: 800;
+                  font-size: 18px;
+                  line-height: 1.16;
+                  letter-spacing: 0.03em;
+                  color: #2E2F42;
+      }
+
+.header-item{
+      font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #2E2F42;
+}
+
+.header-address-item{
+      font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
+
+}
+
+.hero{
+      background: #2E2F42;
+}
+
+.h1{
+      font-weight: 700;
+            font-size: 56px;
+            line-height: 1.07;
+            letter-spacing: 0.02em;
+            color: #FFFFFF;
+}
+
+.btn-hero{
+      background: #4D5AE5;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+}
+
+.btn-name{
+      font-family: 'Roboto' sans-serif;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;      
+            color: #FFFFFF;
+}
+
+.about-name{
+      font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            color: #2E2F42;
+}
+.about-item-name{
+      font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
+}
+
